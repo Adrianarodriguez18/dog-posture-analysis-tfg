@@ -4,7 +4,7 @@ Este repositorio contiene el desarrollo realizado para llegar a una solución v�
 ## Estructura del proyecto
 **additional_scripts**
 
-Contiene scripts auxiliares empleados para clasificar las imágenes según la postura del perro. Con los puntos clave del perro estudia su posición con una fórmula matemática. Las imágenes que se estudian fueron clasificadas manualmente anteriormente, por lo que, la clasificación será si el sistema ha predecido la posición del perro correctamente.
+Contiene scripts auxiliares empleados para clasificar las imágenes según la postura del perro. Con los puntos clave del perro estudia su posición con una fórmula matemática. Las imágenes que se estudian fueron clasificadas manualmente anteriormente, por lo que, la clasificación será si el sistema ha predicho la posición del perro correctamente.
 
 **pose_detection**
 
